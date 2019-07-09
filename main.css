@@ -4,7 +4,12 @@
     margin-top: 30px; margin-left: 70px; }
 .bottom{display: flex;
     flex-direction: row;
-    justify-content: flex-start; width: 100%; padding-block-start: 100%;}
+    justify-content: 
+    flex-start; 
+    width: 100%; 
+    <!--padding-block-start: 100%;-->
+    margin-top: 2px; 
+}
  .d{ background: #FF3A21; color: white; border-radius: 50%; position: fixed; top: 30px; right: 70px; }
 .middle-one{ display: flex; flex-direction: row; justify-content: center; padding-top: 25%; }
 .search{ background: #DCDCDC; border-radius: 50px; }
