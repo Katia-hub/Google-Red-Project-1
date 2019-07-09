@@ -7,10 +7,10 @@
     justify-content:center;  
     flex-start; 
     width: 100%; 
-    margin-top: 20px; 
+    margin-top: 40px; 
 }
  .d{ background: #FF3A21; color: white; border-radius: 50%; position: fixed; top: 30px; right: 70px; }
-.middle-one{ display: flex; flex-direction: row; justify-content: center; padding-top: 25%; }
+.middle-one{ display: flex; flex-direction: row; justify-content: center; padding-top: 15%; }
 .search{ background: #DCDCDC; border-radius: 50px; }
 .icons{display: flex; flex-direction: row; justify-content: center; margin: 20px;  }
 .green-icon{padding-right: 25px;}
